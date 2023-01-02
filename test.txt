@@ -1,0 +1,2 @@
+hello 
+first txt file created via git bash
